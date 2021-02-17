@@ -1,3 +1,27 @@
 body {
+<<<<<<< Updated upstream
     background-color: green;
+=======
+    background-color: white;
+}
+
+#statusBar{
+    height: 30px;
+    width: 411px;
+    align-items: flex-start;
+}
+
+#plantIcon{
+    height: 181px;
+    width: 181px;
+    margin: auto;
+    display: block; 
+    padding-top: 48px;
+}
+
+#bottomNav {
+    height: 58px;
+    width: 411px;
+    align-items:flex-end;
+>>>>>>> Stashed changes
 }
